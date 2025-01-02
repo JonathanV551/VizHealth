@@ -1,0 +1,4 @@
+State,County,State code,County code,Year span,Measure name,Measure id,Numerator,Denominator,Raw value
+Alabama,Autauga,01,001,2020,Life Expectancy,001,0,0,75.8
+Alabama,Baldwin,01,003,2020,Life Expectancy,001,0,0,77.2
+// ... more data ... 
