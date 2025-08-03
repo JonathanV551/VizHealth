@@ -34,27 +34,3 @@ This app uses a public CSV dataset containing health-related data. Users can loa
 1. Clone this repository:
    ```bash
    git clone https://github.com/JonathanV551/VizHealth.git
-Open the .xcodeproj file in Xcode
-
-Make sure Python + required libraries are installed:
-
-bash
-Copy
-Edit
-pip install pandas transformers
-Run the app on an iOS simulator or physical device
-
-📈 Future Improvements
-Add filtering and drill-down options for deeper data exploration
-
-Allow users to upload their own CSV files
-
-Expand the Transformer model's role in data prediction or classification
-
-Improve UI with animations and better chart interaction
-
-Add local storage or cloud sync options
-
-🧑‍💻 About the Author
-👋 Hi, I’m Jonathan Vadala — a high school junior passionate about statistics, data science, and using AI to create tools that help people make better decisions. This project was built as part of my ISM research and passion for data-driven healthcare solutions.
-
